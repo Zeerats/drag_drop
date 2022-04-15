@@ -1,4 +1,5 @@
 # vue_drag_drop
+Kanban app example with drag and drop functionality in Vue 3.
 
 ## Project setup
 ```
